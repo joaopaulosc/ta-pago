@@ -22,4 +22,8 @@ export class ContasPage {
     console.log('ionViewDidLoad ContasPage');
   }
 
+  onClickNovaConta() {
+    console.log('Cliquei em nova conta...');
+  }
+
 }
